@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/guido/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1236767794.index
+2433847720.index
+1563584275.index
+1523924611.index
+4294588634.index
